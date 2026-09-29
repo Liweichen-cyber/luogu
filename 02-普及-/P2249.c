@@ -1,0 +1,14 @@
+/*
+ * 洛谷 P2249 【深基13.例1】查找
+ * 难度：普及−
+ * 来源：【算法1-6】二分查找与二分答案
+ * 链接：https://www.luogu.com.cn/problem/P2249
+ */
+#include <stdio.h>
+
+int main(void)
+{
+    // TODO: 解题代码
+
+    return 0;
+}

@@ -1,0 +1,14 @@
+/*
+ * 洛谷 P5740 【深基7.例9】最厉害的学生
+ * 难度：普及−
+ * 来源：【入门6】函数与结构体
+ * 链接：https://www.luogu.com.cn/problem/P5740
+ */
+#include <stdio.h>
+
+int main(void)
+{
+    // TODO: 解题代码
+
+    return 0;
+}

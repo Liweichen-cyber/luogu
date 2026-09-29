@@ -1,0 +1,14 @@
+/*
+ * 洛谷 P1075 [NOIP 2012 普及组] 质因数分解
+ * 难度：普及−
+ * 来源：【入门3】循环结构、【入门6】函数与结构体
+ * 链接：https://www.luogu.com.cn/problem/P1075
+ */
+#include <stdio.h>
+
+int main(void)
+{
+    // TODO: 解题代码
+
+    return 0;
+}

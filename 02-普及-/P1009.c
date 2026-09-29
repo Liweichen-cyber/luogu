@@ -1,0 +1,14 @@
+/*
+ * 洛谷 P1009 [NOIP 1998 普及组] 阶乘之和
+ * 难度：普及−
+ * 来源：【入门3】循环结构、【算法1-1】模拟与高精度
+ * 链接：https://www.luogu.com.cn/problem/P1009
+ */
+#include <stdio.h>
+
+int main(void)
+{
+    // TODO: 解题代码
+
+    return 0;
+}

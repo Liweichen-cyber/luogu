@@ -1,0 +1,14 @@
+/*
+ * 洛谷 P1036 [NOIP 2002 普及组] 选数
+ * 难度：普及−
+ * 来源：【算法1-3】暴力枚举、【算法1-4】递推与递归、【算法1-7】搜索
+ * 链接：https://www.luogu.com.cn/problem/P1036
+ */
+#include <stdio.h>
+
+int main(void)
+{
+    // TODO: 解题代码
+
+    return 0;
+}
