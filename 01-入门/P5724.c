@@ -4,11 +4,3 @@
  * 来源：【入门3】循环结构
  * 链接：https://www.luogu.com.cn/problem/P5724
  */
-#include <stdio.h>
-
-int main(void)
-{
-    // TODO: 解题代码
-
-    return 0;
-}

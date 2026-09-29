@@ -1,4 +1,7 @@
-# CLion / CMake 构建产物
+# CLion / JetBrains IDE 项目设置
+/.idea/
+
+# CMake 构建产物
 /cmake-build-*/
 /cmake-build-debug*/
 /build/
